@@ -2,6 +2,9 @@
 
 An interactive Machine Learning web application that detects whether a message is **Spam or Not Spam** using Natural Language Processing (NLP). Built with **Streamlit**, it provides real-time predictions, model comparison, and prediction history.
 
+
+# Live Demo
+(https://spam-detection-h9xkf2tyns4zfhao3kyemf.streamlit.app/)
 ---
 
 ## 🚀 Live Features
